@@ -12,10 +12,10 @@ by [David Tufts](https://github.com/davidscotttufts)
 Through Composer, obviously:
 
 ```
-composer require picoprime/barcodegen
+composer require dscmall/barcodegen
 ```
 
-or you can edit composer.json file and add `"picoprime/barcodegen": "~1.0"` to 
+or you can edit composer.json file and add `"dscmall/barcodegen": "~1.0"` to 
 your "require" section.
 
 # Setup
